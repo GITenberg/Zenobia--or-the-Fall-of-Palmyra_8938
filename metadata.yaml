@@ -1,5 +1,8 @@
 _repo: Zenobia--or-the-Fall-of-Palmyra_8938
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ware, William
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2937
     wikipedia: http://en.wikipedia.org/wiki/William_Ware
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8938#Zenobia--or-the-Fall-of-Palmyra
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
